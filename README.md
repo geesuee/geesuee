@@ -3,7 +3,7 @@
   <a href="mailto:baejisu97@gmail.com" target="_blank"><img src="https://img.shields.io/badge/baejisu97@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geesuee&layout=compact&theme=nightowl&langs_count=10)<br>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geesuee&layout=compact&theme=nightowl&langs_count=10)<br> -->
 ![geesuee's GitHub stats](https://github-readme-stats.vercel.app/api?username=geesuee&show_icons=true&theme=nightowl)<br>
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geesuee)](https://solved.ac/geesuee) -->
 
@@ -20,8 +20,9 @@
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Kibana-FF458E?style=flat-square&logo=Kibana&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
