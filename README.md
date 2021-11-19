@@ -20,7 +20,7 @@
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"><br>
+<!--   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"><br> -->
   <img src="https://img.shields.io/badge/Jupyter notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-FF458E?style=flat-square&logo=Kibana&logoColor=white"><br>
